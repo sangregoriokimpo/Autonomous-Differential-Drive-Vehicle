@@ -1,0 +1,9 @@
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/uninstall.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/my_robot_description_uninstall.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/test.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/edit_cache.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/rebuild_cache.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/list_install_components.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/install.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/install/local.dir
+/home/sgq/ros2_workspace/build/my_robot_description/CMakeFiles/install/strip.dir

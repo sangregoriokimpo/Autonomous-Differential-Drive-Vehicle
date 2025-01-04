@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <xacro:property name="arm_base_length" value="0.1" />
+    <xacro:property name="arm_base_width" value="0.1" />
+    <xacro:property name="arm_base_height" value="0.02" />
+
+
+    <link name="arm_base_link">
+        <visual>
+            <geometry>
+                <box size="${arm_base_length} ${arm_base_width} ${arm_base_height}" />
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+            <material name="orange" />
+        </visual>
+    </link>
+</robot>

@@ -1,0 +1,26 @@
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/sgq/ros2_workspace/build/my_robot_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/environment/path.sh
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/environment/path.dsv
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/local_setup.bash
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/local_setup.sh
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/local_setup.zsh
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/local_setup.dsv
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/package.dsv
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+-- Symlinking: /home/sgq/ros2_workspace/install/my_robot_description/share/my_robot_description/package.xml
